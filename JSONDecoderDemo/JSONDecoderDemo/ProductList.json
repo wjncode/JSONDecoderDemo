@@ -1,0 +1,50 @@
+{
+    "code": 10000,
+    "msg": "请求成功",
+    "datas" : [
+        {
+            "id": 1001,
+            "name": "Durian",
+            "points": 600,
+            "parameters": {
+                "size": "80*80",
+                "area": "Thailand",
+                "quality": "bad"
+            },
+            "description": "A fruit with a distinctive scent."
+        },
+        {
+            "id": 1002,
+            "name": "Apple",
+            "points": 600,
+            "parameters": {
+                "size": "80*80",
+                "area": "China",
+                "quality": "good"
+            },
+            "description": "A round fruit with shiny red or green skin and firm white flesh."
+        },
+        {
+            "id": 1003,
+            "name": "Arange",
+            "points": 600,
+            "parameters": {
+                "size": "80*80",
+                "area": "China",
+                "quality": "caporal"
+            },
+            "description": "A round citrus fruit with thick reddish-yellow skin and a lot of sweet juice."
+        },
+        {
+            "id": 1004,
+            "name": "Banana",
+            "points": 600,
+            "parameters": {
+                "size": "80*80",
+                "area": "Malaysia",
+                "quality": "good"
+            },
+            "description": "A long curved fruit with a thick yellow skin and soft flesh, that grows on trees in hot countries."
+        }
+   ]
+}
